@@ -1,0 +1,4 @@
+com\example\shirotest\JdbcRealmTest.class
+com\example\shirotest\IniRealmTest.class
+com\example\shirotest\AUthTest.class
+com\example\shirotest\CustomRealmTest.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.shirotest.JdbcRealmTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.shirotest.JdbcRealmTest
+TestAuth(com.example.shirotest.JdbcRealmTest)  Time elapsed: 0 s  <<< ERROR!
+org.apache.shiro.authc.IncorrectCredentialsException: Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - zhangsan, rememberMe=false] did not match the expected credentials.
+	at com.example.shirotest.JdbcRealmTest.TestAuth(JdbcRealmTest.java:38)
+

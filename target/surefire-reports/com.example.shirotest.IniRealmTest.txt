@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.shirotest.IniRealmTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.shirotest.IniRealmTest
+TestAuth(com.example.shirotest.IniRealmTest)  Time elapsed: 0 s  <<< ERROR!
+org.apache.shiro.authz.UnauthorizedException: Subject does not have permission [user:update]
+	at com.example.shirotest.IniRealmTest.TestAuth(IniRealmTest.java:26)
+
