@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-"# Shiro" 
-=======
-"# Shiro" 
->>>>>>> 2ac167bd8f3a5ea625fcfe74b17b42c57dd68253
+这是一个学习shiro的一个小demo,涵盖一下内容：
+shiro 认证
+授权
+加密
+自定义Realm
